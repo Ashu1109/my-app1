@@ -1,0 +1,2 @@
+.imgBox{align-items:center;bottom:100px;display:flex;height:100vh;justify-content:center;position:relative;right:96px;width:100vw}.imgBox>div{-webkit-animation:rotation .3s linear infinite;animation:rotation .3s linear infinite;border-bottom:2px solid #343434;border-radius:50%;height:50px;width:50px}@-webkit-keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.header{box-shadow:0 10px 20px 1px #6e6e6e;margin:5px 5px 80px}
+/*# sourceMappingURL=main.83941ce2.css.map*/
